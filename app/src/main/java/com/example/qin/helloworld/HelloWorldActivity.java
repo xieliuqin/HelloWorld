@@ -11,6 +11,7 @@ public class HelloWorldActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hello_world_layout);
         Log.d("HelloWorldActivity","onCreate execute");
+        //123456
     }
 
 }
